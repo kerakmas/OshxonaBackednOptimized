@@ -4,7 +4,7 @@ using Oshxonaoptimized.Domain.Entitites;
 var obj = new Mealmodel()
 {
     Id = 1,
-    Nomi = "salom",
+    Nomi = "asasasas",
     Porsiyasi = 2
 };
 var service = new Repository();
